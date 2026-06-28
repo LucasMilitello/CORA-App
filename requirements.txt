@@ -1,0 +1,9 @@
+numpy
+opencv-python
+matplotlib
+tifffile
+scipy
+scikit-learn
+threadpoolctl
+Pillow
+PySide6==6.8.0
